@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Establishment", "Establishment\Establishment.csproj", "{EB8383A3-06B4-4D83-ABEF-E29EA3CD7F25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagementCateringEstablishment", "ManagementCateringEstablishment\ManagementCateringEstablishment.csproj", "{748C1393-45AE-4E64-B47E-2DF29CD4578F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB8383A3-06B4-4D83-ABEF-E29EA3CD7F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8383A3-06B4-4D83-ABEF-E29EA3CD7F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8383A3-06B4-4D83-ABEF-E29EA3CD7F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8383A3-06B4-4D83-ABEF-E29EA3CD7F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748C1393-45AE-4E64-B47E-2DF29CD4578F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748C1393-45AE-4E64-B47E-2DF29CD4578F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748C1393-45AE-4E64-B47E-2DF29CD4578F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748C1393-45AE-4E64-B47E-2DF29CD4578F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

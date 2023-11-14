@@ -1,0 +1,15 @@
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\CateringEstablishment\bin\Debug\net7.0\CateringEstablishment.exe
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\CateringEstablishment\bin\Debug\net7.0\CateringEstablishment.deps.json
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\CateringEstablishment\bin\Debug\net7.0\CateringEstablishment.runtimeconfig.json
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\CateringEstablishment\bin\Debug\net7.0\CateringEstablishment.dll
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\CateringEstablishment\bin\Debug\net7.0\CateringEstablishment.pdb
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\CateringEstablishment\obj\Debug\net7.0\CateringEstablishment.csproj.AssemblyReference.cache
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\CateringEstablishment\obj\Debug\net7.0\CateringEstablishment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\CateringEstablishment\obj\Debug\net7.0\CateringEstablishment.AssemblyInfoInputs.cache
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\CateringEstablishment\obj\Debug\net7.0\CateringEstablishment.AssemblyInfo.cs
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\CateringEstablishment\obj\Debug\net7.0\CateringEstablishment.csproj.CoreCompileInputs.cache
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\CateringEstablishment\obj\Debug\net7.0\CateringEstablishment.dll
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\CateringEstablishment\obj\Debug\net7.0\refint\CateringEstablishment.dll
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\CateringEstablishment\obj\Debug\net7.0\CateringEstablishment.pdb
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\CateringEstablishment\obj\Debug\net7.0\CateringEstablishment.genruntimeconfig.cache
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\CateringEstablishment\obj\Debug\net7.0\ref\CateringEstablishment.dll

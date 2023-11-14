@@ -1,0 +1,12 @@
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\ManagementCateringEstablishment\obj\Debug\net7.0\ManagementCateringEstablishment.csproj.AssemblyReference.cache
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\ManagementCateringEstablishment\obj\Debug\net7.0\ManagementCateringEstablishment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\ManagementCateringEstablishment\obj\Debug\net7.0\ManagementCateringEstablishment.AssemblyInfoInputs.cache
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\ManagementCateringEstablishment\obj\Debug\net7.0\ManagementCateringEstablishment.AssemblyInfo.cs
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\ManagementCateringEstablishment\obj\Debug\net7.0\ManagementCateringEstablishment.csproj.CoreCompileInputs.cache
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\ManagementCateringEstablishment\bin\Debug\net7.0\ManagementCateringEstablishment.deps.json
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\ManagementCateringEstablishment\bin\Debug\net7.0\ManagementCateringEstablishment.dll
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\ManagementCateringEstablishment\bin\Debug\net7.0\ManagementCateringEstablishment.pdb
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\ManagementCateringEstablishment\obj\Debug\net7.0\ManagementCateringEstablishment.dll
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\ManagementCateringEstablishment\obj\Debug\net7.0\refint\ManagementCateringEstablishment.dll
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\ManagementCateringEstablishment\obj\Debug\net7.0\ManagementCateringEstablishment.pdb
+C:\Users\kainl\OneDrive\Рабочий стол\C#\CateringEstablishment\ManagementCateringEstablishment\obj\Debug\net7.0\ref\ManagementCateringEstablishment.dll
